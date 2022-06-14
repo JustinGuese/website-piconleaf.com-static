@@ -71,7 +71,7 @@ d="M44 -130l45 247q3 18 20 18h64q17 0 17 -14q0 -3 -1 -7l-65 -249q-5 -16 -21 -16h
 d="M69 318h254q19 0 19 -19v-53q0 -19 -19 -19h-254q-19 0 -19 19v53q0 19 19 19z" />
     <glyph glyph-name="period" unicode="." horiz-adv-x="252" 
 d="M56 61q0 31 19 50.5t51 19.5t51 -19.5t19 -50.5t-19 -50q-19 -20 -51 -20t-51 19.5t-19 50.5z" />
-    <glyph glyph-name="slash" unicode="https://static.piconleaf.com/" horiz-adv-x="471" 
+    <glyph glyph-name="slash" unicode="https://piconleaf.com/static/" horiz-adv-x="471" 
 d="M20 -55l333 752q6 14 23 14h61q17 0 17 -12q0 -4 -2 -10l-334 -752q-6 -14 -23 -14h-60q-11 0 -14.5 4.5t-3.5 8.5t3 9z" />
     <glyph glyph-name="zero" unicode="0" horiz-adv-x="674" 
 d="M56 350q0 168 76.5 264.5t204.5 96.5t204.5 -96.5t76.5 -264.5t-76 -264q-77 -97 -205 -97t-204.5 96.5t-76.5 264.5zM162 350q0 -131 46 -198q45 -67 129 -67t129.5 67t45.5 198t-45.5 198t-129.5 67t-129.5 -67t-45.5 -198z" />
